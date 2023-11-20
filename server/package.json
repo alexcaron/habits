@@ -1,0 +1,10 @@
+{
+  "name": "habit-server",
+  "version": "1.0.0",
+  "description": "server for habit tracker app",
+  "main": "index.js",
+  "scripts": {
+    "start": ""
+  },
+  "author": "Alex Caron"
+}
